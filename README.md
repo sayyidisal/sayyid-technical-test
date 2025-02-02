@@ -131,7 +131,7 @@ If you want to contribute:
 
 - **GitHub Repository**: [GitHub Link](https://github.com/sayyidisal/sayyid-technical-test)
 - **Deployment URL**: [Live Demo](https://])
-- **Storybook URL**: [Storybook Preview](https://)
+- **Storybook URL**: [Storybook Preview](https://679f351857c80fd9fab945ea-ktgehxaqdo.chromatic.com/)
 
 Thank you! Happy coding! 🚀
 
