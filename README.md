@@ -130,7 +130,7 @@ If you want to contribute:
 ## 📢 Additional Information
 
 - **GitHub Repository**: [GitHub Link](https://github.com/sayyidisal/sayyid-technical-test)
-- **Deployment URL**: [Live Demo](https://])
+- **Deployment URL**: [Live Demo](https://sayyid-technical-test-7bon.vercel.app/])
 - **Storybook URL**: [Storybook Preview](https://679f351857c80fd9fab945ea-ktgehxaqdo.chromatic.com/)
 
 Thank you! Happy coding! 🚀
